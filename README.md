@@ -2,7 +2,8 @@
 
 ## Overview
 
-**The Library Catalog Management System** is a C++ application designed to efficiently organize and manage book collections 
+The Library Catalog Management System 
+is a C++ application designed to efficiently organize and manage book collections 
 using hierarchical categories. It implements custom data structures and algorithms to provide robust 
 book management capabilities through an interactive command-line interface.
 ---
